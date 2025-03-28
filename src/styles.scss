@@ -1,18 +1,18 @@
-@use "../../sass/vendors/_bootstrap.scss";
+@use "../../sass/vendors/bootstrap.scss";
 
-@use "../../sass/abstracts/_mixins";
-@use "../../sass/abstracts/_variables";
-@use "../../sass/abstracts/_helpers";
+@use "../../sass/abstracts/mixins";
+@use "../../sass/abstracts/variables";
+@use "../../sass/abstracts/helpers";
 
-@use "../../sass/base/_base";
-@use "../../sass/base/_typography";
+@use "../../sass/base/base";
+@use "../../sass/base/typography";
 
-@use "../../sass/components/_buttons";
+@use "../../sass/components/buttons";
 
-@use "../../sass/layout/_footer";
-@use "../../sass/layout/_sections";
+@use "../../sass/layout/footer";
+@use "../../sass/layout/sections";
 
-@use "../../sass/sections/_about";
-@use "../../sass/sections/_contact";
-@use "../../sass/sections/_hero";
-@use "../../sass/sections/_projects";
+@use "../../sass/sections/about";
+@use "../../sass/sections/contact";
+@use "../../sass/sections/hero";
+@use "../../sass/sections/projects";
